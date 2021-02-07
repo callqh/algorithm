@@ -13,9 +13,9 @@
 
 # 链表篇
 
-1. [反转链表（递归和迭代） - ⭐️](/链表/206-反转链表.js) - [Leectode 链接](https://leetcode-cn.com/problems/reverse-linked-list/)
-2. [删除链表中的节点 - ⭐️](/链表/237-删除链表中的节点.js) - [Leectode 链接](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
-3. [两数相加 - ⭐️⭐️](/链表/22-两数相加.js) - [Leetcode 链接](https://leetcode-cn.com/problems/add-two-numbers/)
+1. [反转链表（递归和迭代）【⭐️】](/链表/206-反转链表.js) - [Leetcode 链接](https://leetcode-cn.com/problems/reverse-linked-list/)
+2. [删除链表中的节点 【⭐️】](/链表/237-删除链表中的节点.js) - [Leetode 链接](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
+3. [两数相加【⭐️⭐️】](/链表/22-两数相加.js) - [Leetcode 链接](https://leetcode-cn.com/problems/add-two-numbers/)
 
 ## 栈
 
