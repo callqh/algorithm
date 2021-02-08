@@ -13,12 +13,17 @@
 
 # 链表篇
 
-1. [反转链表（递归和迭代）【⭐️】](/链表/206-反转链表.js) - [Leetcode 链接](https://leetcode-cn.com/problems/reverse-linked-list/)
-2. [删除链表中的节点 【⭐️】](/链表/237-删除链表中的节点.js) - [Leetode 链接](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
-3. [两数相加【⭐️⭐️】](/链表/22-两数相加.js) - [Leetcode 链接](https://leetcode-cn.com/problems/add-two-numbers/)
+1. [反转链表（递归和迭代）【⭐️】](/链表/206-反转链表.js) - [LeetCode 链接](https://leetcode-cn.com/problems/reverse-linked-list/)
+2. [删除链表中的节点 【⭐️】](/链表/237-删除链表中的节点.js) - [LeetCode 链接](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
+3. [两数相加【⭐️⭐️】](/链表/22-两数相加.js) - [LeetCode 链接](https://leetcode-cn.com/problems/add-two-numbers/)
 
 ## 栈
 
+1. [有效的括号【⭐️】](/栈/20-有效的括号.js) - [LeetCode 链接](https://leetcode-cn.com/problems/valid-parentheses/)
+2. [二叉树的前序遍历（迭代）【⭐️⭐️】](/栈/144-二叉树的前序遍历.js) - [LeetCode 链接](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+
 ## 队列
+
+1. [最近的请求次数【⭐️】](/队列/933-最近的请求次数.js) - [LeetCode 链接](https://leetcode-cn.com/problems/number-of-recent-calls/)
 
 ## 树
