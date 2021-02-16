@@ -15,7 +15,9 @@
 
 1. [反转链表（递归和迭代）【⭐️】](/链表/206-反转链表.js) - [LeetCode 链接](https://leetcode-cn.com/problems/reverse-linked-list/)
 2. [删除链表中的节点 【⭐️】](/链表/237-删除链表中的节点.js) - [LeetCode 链接](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
-3. [两数相加【⭐️⭐️】](/链表/22-两数相加.js) - [LeetCode 链接](https://leetcode-cn.com/problems/add-two-numbers/)
+3. [环形链表【⭐️】](/链表/141-环形链表.js) - [LeetCode 链接](https://leetcode-cn.com/problems/linked-list-cycle/)
+4. [回文链表【⭐️】](/链表/234-回文链表.js) - [LeetCode 链接](https://leetcode-cn.com/problems/palindrome-linked-list/)
+5. [两数相加【⭐️⭐️】](/链表/22-两数相加.js) - [LeetCode 链接](https://leetcode-cn.com/problems/add-two-numbers/)
 
 ## 栈
 
@@ -25,5 +27,6 @@
 ## 队列
 
 1. [最近的请求次数【⭐️】](/队列/933-最近的请求次数.js) - [LeetCode 链接](https://leetcode-cn.com/problems/number-of-recent-calls/)
+2. [两个数组的交集【⭐️】](/队列/243-两个数组的交集.js) - [LeetCode 链接](https://leetcode-cn.com/problems/intersection-of-two-arrays/)
 
 ## 树
