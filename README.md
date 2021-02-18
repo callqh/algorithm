@@ -8,8 +8,9 @@
   1. 简单：⭐️
   2. 中等：⭐️⭐️
   3. 困难：⭐️⭐️⭐️
+- 概念相关的可以查看我的语雀笔记，[点击这里查看](https://www.yuque.com/callmew/blog/qdou1k)
 
-> 因为本人可以说是算法小白，所以前期会将重点放在简单和中等的题目上，不给自己找麻烦，也是明确自己的定位。
+> 对于算法初学者来说，还是按照模块并且从简单类型的题目入手开始，一是给自己增加信心，二是便于理解掌握算法的套路
 
 # 链表篇
 
@@ -27,6 +28,12 @@
 ## 队列
 
 1. [最近的请求次数【⭐️】](/队列/933-最近的请求次数.js) - [LeetCode 链接](https://leetcode-cn.com/problems/number-of-recent-calls/)
-2. [两个数组的交集【⭐️】](/队列/243-两个数组的交集.js) - [LeetCode 链接](https://leetcode-cn.com/problems/intersection-of-two-arrays/)
+
+## 哈希表
+
+1. [两个数组的交集【⭐️】](/哈希表/349-两个数组的交集.js) - [LeetCode 链接](https://leetcode-cn.com/problems/intersection-of-two-arrays/)
+2. [两数相加【⭐️】](/哈希表/1-两数之和.js) - [LeetCode 链接](https://leetcode-cn.com/problems/two-sum/)
+3. [无重复字符的最长子串【⭐️⭐️】](/哈希表/3-无重复字符的最长子串.js) - [LeetCode 链接](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+4. [最小覆盖子串【⭐️⭐️⭐️】](/哈希表/1-两数之和.js) - [LeetCode 链接](https://leetcode-cn.com/problems/minimum-window-substring/)
 
 ## 树
