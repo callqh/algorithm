@@ -12,7 +12,7 @@
 
 > 对于算法初学者来说，还是按照模块并且从简单类型的题目入手开始，一是给自己增加信心，二是便于理解掌握算法的套路
 
-# 链表篇
+## 链表篇
 
 1. [反转链表（递归和迭代）【⭐️】](/链表/206-反转链表.js) - [LeetCode 链接](https://leetcode-cn.com/problems/reverse-linked-list/)
 2. [删除链表中的节点 【⭐️】](/链表/237-删除链表中的节点.js) - [LeetCode 链接](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
