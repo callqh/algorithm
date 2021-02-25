@@ -4,36 +4,83 @@
 
 - 题目按照模块划分，主要分为链表、栈、队列、树等几大模块，后续会逐步添加
 - 每道题目的题解会通过注释的方式将思路和一些注意点进行说明
-- README 文档中 ⭐️ 表示该题对应的难度，分别对应 LeetCode 中以下难度：
-  1. 简单：⭐️
-  2. 中等：⭐️⭐️
-  3. 困难：⭐️⭐️⭐️
+- 每个文件命名的前面的数字就是该题在**LeetCode中对应的题号**
 - 概念相关的可以查看我的语雀笔记，[点击这里查看](https://www.yuque.com/callmew/blog/qdou1k)
 
-> 对于算法初学者来说，还是按照模块并且从简单类型的题目入手开始，一是给自己增加信心，二是便于理解掌握算法的套路
+> 建议：对于算法初学者来说，还是按照模块并且从简单类型的题目入手开始，一是给自己增加信心，二是便于理解掌握算法的套路
 
-## 链表篇
+---
 
-1. [反转链表（递归和迭代）【⭐️】](/链表/206-反转链表.js) - [LeetCode 链接](https://leetcode-cn.com/problems/reverse-linked-list/)
-2. [删除链表中的节点 【⭐️】](/链表/237-删除链表中的节点.js) - [LeetCode 链接](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
-3. [环形链表【⭐️】](/链表/141-环形链表.js) - [LeetCode 链接](https://leetcode-cn.com/problems/linked-list-cycle/)
-4. [回文链表【⭐️】](/链表/234-回文链表.js) - [LeetCode 链接](https://leetcode-cn.com/problems/palindrome-linked-list/)
-5. [两数相加【⭐️⭐️】](/链表/22-两数相加.js) - [LeetCode 链接](https://leetcode-cn.com/problems/add-two-numbers/)
-
+## node_modules
+- [bin](/node_modules/.bin)
+    
+- [yarn-integrity](/node_modules/.yarn-integrity)
+    
+- [undefined](/node_modules/balanced-match)
+    
+- [undefined](/node_modules/brace-expansion)
+    
+- [undefined](/node_modules/concat-map)
+    
+- [realpath](/node_modules/fs.realpath)
+    
+- [undefined](/node_modules/function-bind)
+    
+- [undefined](/node_modules/glob)
+    
+- [undefined](/node_modules/has)
+    
+- [undefined](/node_modules/inflight)
+    
+- [undefined](/node_modules/inherits)
+    
+- [undefined](/node_modules/interpret)
+    
+- [undefined](/node_modules/is-core-module)
+    
+- [undefined](/node_modules/minimatch)
+    
+- [undefined](/node_modules/once)
+    
+- [undefined](/node_modules/path-is-absolute)
+    
+- [undefined](/node_modules/path-parse)
+    
+- [undefined](/node_modules/rechoir)
+    
+- [undefined](/node_modules/resolve)
+    
+- [undefined](/node_modules/shelljs)
+    
+- [undefined](/node_modules/wrappy)
+    
+## 数组
+- [两数之和](/数组/1.两数之和.js)
+    
+- [无重复字符的最长子串](/数组/3.无重复字符的最长子串.js)
+    
+- [两个数组的交集](/数组/349.两个数组的交集.js)
+    
+- [最小覆盖子串](/数组/76.最小覆盖子串.js)
+    
 ## 栈
-
-1. [有效的括号【⭐️】](/栈/20-有效的括号.js) - [LeetCode 链接](https://leetcode-cn.com/problems/valid-parentheses/)
-2. [二叉树的前序遍历（迭代）【⭐️⭐️】](/栈/144-二叉树的前序遍历.js) - [LeetCode 链接](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
-
+- [二叉树的前序遍历](/栈/144.二叉树的前序遍历.js)
+    
+- [有效的括号](/栈/20.有效的括号.js)
+    
+## 链表
+- [环形链表](/链表/141.环形链表.js)
+    
+- [反转链表](/链表/206.反转链表.js)
+    
+- [两数相加](/链表/22.两数相加.js)
+    
+- [回文链表](/链表/234.回文链表.js)
+    
+- [删除链表中的节点](/链表/237.删除链表中的节点.js)
+    
 ## 队列
-
-1. [最近的请求次数【⭐️】](/队列/933-最近的请求次数.js) - [LeetCode 链接](https://leetcode-cn.com/problems/number-of-recent-calls/)
-
-## 哈希表
-
-1. [两个数组的交集【⭐️】](/哈希表/349-两个数组的交集.js) - [LeetCode 链接](https://leetcode-cn.com/problems/intersection-of-two-arrays/)
-2. [两数相加【⭐️】](/哈希表/1-两数之和.js) - [LeetCode 链接](https://leetcode-cn.com/problems/two-sum/)
-3. [无重复字符的最长子串【⭐️⭐️】](/哈希表/3-无重复字符的最长子串.js) - [LeetCode 链接](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
-4. [最小覆盖子串【⭐️⭐️⭐️】](/哈希表/1-两数之和.js) - [LeetCode 链接](https://leetcode-cn.com/problems/minimum-window-substring/)
-
-## 树
+- [绝对差不超过限制的最长连续子数组](/队列/1438.绝对差不超过限制的最长连续子数组.js)
+    
+- [最近的请求次数](/队列/933.最近的请求次数.js)
+    
