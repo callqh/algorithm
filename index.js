@@ -1,7 +1,7 @@
 const fs = require("fs");
 const shell = require("shelljs");
 // 初始化README，每次都不会变的内容
-const data = `
+let data = `
 ![Yes](https://qiniu.lqh.kim/banner1.jpg)
 # 算法题整理
 
@@ -21,8 +21,10 @@ const data = `
 const folders = fs
   .readdirSync("./")
   .filter((f) => !f.includes(".") && !f.includes("node_modules"));
-
+// 需要写入的内容
 let content = "";
+// 已经做题的总数
+let count = 0;
 // 获取文件夹下的每个文件
 folders.forEach((item) => {
   const list = fs.readdirSync(`./${item}`);
@@ -30,6 +32,7 @@ folders.forEach((item) => {
   content += `\r\n## ${item}`;
   // 遍历每个文件下的文件将对应文件名写入content中
   list.forEach((i) => {
+    count++;
     // 为每个分类下添加无序列表
     // ## A
     // - xxxxxx
@@ -38,6 +41,9 @@ folders.forEach((item) => {
     `;
   });
 });
+// 更新刷题总数
+
+data += `\r\n 已完成：【<font color=#f0215 size=72>${count}</font>】道题`;
 // 拼接文件
 content = data + content;
 // 清空文件重新写入
