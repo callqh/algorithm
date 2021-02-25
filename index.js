@@ -16,7 +16,9 @@ const data = `# 算法题整理
 `;
 
 // 获取文件夹
-const folders = fs.readdirSync("./").filter((f) => !f.includes("."));
+const folders = fs
+  .readdirSync("./")
+  .filter((f) => !f.includes(".") && !f.includes("node_modules"));
 
 let content = "";
 // 获取文件夹下的每个文件
