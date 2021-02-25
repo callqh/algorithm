@@ -1,7 +1,9 @@
 const fs = require("fs");
 const shell = require("shelljs");
 // 初始化README，每次都不会变的内容
-const data = `# 算法题整理
+const data = `
+![Yes](https://qiniu.lqh.kim/banner1.jpg)
+# 算法题整理
 
 该仓库主要是为了整理记录自己平时所做的算法题，提升内功从每天一点点开始。
 
