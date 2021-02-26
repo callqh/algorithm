@@ -1,5 +1,4 @@
 const fs = require("fs");
-const shell = require("shelljs");
 // 初始化README，每次都不会变的内容
 let data = `
 ![Yes](https://qiniu.lqh.kim/banner1.jpg)
@@ -52,8 +51,4 @@ fs.truncate("./README.md", 0, function () {
   console.log("done");
   // 添加content至README文档
   fs.appendFileSync("./README.md", content);
-  // 提交代码至仓库
-  // shell.exec("git add .");
-  // shell.exec(`git commit -m  完成每日一题`);
-  // shell.exec("git push");
 });
