@@ -53,7 +53,7 @@ fs.truncate("./README.md", 0, function () {
   // 添加content至README文档
   fs.appendFileSync("./README.md", content);
   // 提交代码至仓库
-  shell.exec("git add .");
-  shell.exec(`git commit -m  完成每日一题`);
-  shell.exec("git push");
+  // shell.exec("git add .");
+  // shell.exec(`git commit -m  完成每日一题`);
+  // shell.exec("git push");
 });

@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "ps": "node index"
+    "ps": "node index&& git add . && git commit -m 完成提交 && git push"
   },
   "dependencies": {
     "shelljs": "^0.8.4"
