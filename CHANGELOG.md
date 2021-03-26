@@ -1,3 +1,10 @@
+## [0.0.8](https://github.com/liuqh0609/algorithm/compare/v0.0.7...v0.0.8) (2021-03-26)
+
+
+### Bug Fixes
+
+* 更换插件地址 ([2384fa4](https://github.com/liuqh0609/algorithm/commit/2384fa4c05ef2615f6a75c500d1a845dc45de256))
+
 ## [0.0.7](https://github.com/liuqh0609/algorithm/compare/v0.0.6...v0.0.7) (2021-03-26)
 
 
