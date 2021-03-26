@@ -3,7 +3,10 @@ on:
   push:
     tags:
      - 'v*.*.*'
-
+jobs:
+  steps:
+- name: Checkout code
+        uses: actions/checkout@v2
 # 第三步：发布 Release
 - name: Create Release # 创建Release，可以在仓库看到一个个版本
   id: create_release
@@ -18,6 +21,7 @@ on:
       - First Change
       - Second Change
     draft: false # 是否是草稿
+    prerelease: false
 
 # 第四步：上传构建结果到 Release（把打包的tgz上传到Release）
 # - name: Upload Release Asset
