@@ -9,6 +9,11 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+      - name: Generate changelog
+        id: changelog
+        uses: metcalfc/changelog-generator@v0.4.1
+        with:
+          myToken: ${{ secrets.actionToken }}
       # 第三步：发布 Release
       - name: Create Release # 创建Release，可以在仓库看到一个个版本
         id: create_release
@@ -18,10 +23,7 @@ jobs:
         with:
           tag_name: ${{ github.ref }} # (tag)标签名称
           release_name: Release ${{ github.ref }}
-          body: |
-            Changes in this Release
-            - First Change
-            - Second Change
+          body: ${{ steps.changelog.outputs.changelog }}
           draft: false # 是否是草稿
           prerelease: false
 
