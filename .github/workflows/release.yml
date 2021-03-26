@@ -4,7 +4,9 @@ on:
     tags:
       - "v*.*.*"
 jobs:
-  steps:
+  create:
+    runs-on: ubuntu-latest
+    steps:
     - name: Checkout code
       uses: actions/checkout@v2
     # 第三步：发布 Release
