@@ -12,6 +12,10 @@ on:
   with:
     tag_name: ${{ github.ref }} # (tag)标签名称
     release_name: Release ${{ github.ref }}
+    body: |
+      Changes in this Release
+      - First Change
+      - Second Change
     draft: false # 是否是草稿
 
 # 第四步：上传构建结果到 Release（把打包的tgz上传到Release）
