@@ -1,3 +1,10 @@
+## [0.0.7](https://github.com/liuqh0609/algorithm/compare/v0.0.6...v0.0.7) (2021-03-26)
+
+
+### Features
+
+* 修改commit信息输出格式 ([b7990dc](https://github.com/liuqh0609/algorithm/commit/b7990dc171cbccc2de7b1ec99a03ef7745208595))
+
 ## [0.0.6](https://github.com/liuqh0609/algorithm/compare/v0.0.5...v0.0.6) (2021-03-26)
 
 
