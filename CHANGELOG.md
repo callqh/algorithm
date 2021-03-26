@@ -1,3 +1,10 @@
+## [0.0.6](https://github.com/liuqh0609/algorithm/compare/v0.0.5...v0.0.6) (2021-03-26)
+
+
+### Bug Fixes
+
+* 增加动态获取changlog ([77a7a2e](https://github.com/liuqh0609/algorithm/commit/77a7a2eac0c750be696ad2f9cfcd536364d6b235))
+
 ## [0.0.5](https://github.com/liuqh0609/algorithm/compare/v0.0.4...v0.0.5) (2021-03-26)
 
 
