@@ -1,3 +1,10 @@
+## [0.0.11](https://github.com/liuqh0609/algorithm/compare/v0.0.10...v0.0.11) (2021-03-26)
+
+
+### Features
+
+* 修改依赖 ([eec695b](https://github.com/liuqh0609/algorithm/commit/eec695b88b1b4b3c8955db649b724bcc30a8011f))
+
 ## [0.0.10](https://github.com/liuqh0609/algorithm/compare/v0.0.9...v0.0.10) (2021-03-26)
 
 
