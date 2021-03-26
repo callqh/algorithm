@@ -1,3 +1,11 @@
+## [0.0.5](https://github.com/liuqh0609/algorithm/compare/v0.0.4...v0.0.5) (2021-03-26)
+
+
+### Bug Fixes
+
+* 修复action流程 ([4f0b0b5](https://github.com/liuqh0609/algorithm/commit/4f0b0b576c493eaeee9c197f3b2c321a2e21daf2))
+* 修复workflow流程 ([c9fff17](https://github.com/liuqh0609/algorithm/commit/c9fff173129cb4a8c25fa9baa67b2382b5845b7f))
+
 ## 0.0.4 (2021-03-26)
 
 
