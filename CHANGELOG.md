@@ -1,3 +1,16 @@
+## [1.0.2](https://github.com/liuqh0609/algorithm/compare/v1.0.1...v1.0.2) (2021-03-27)
+
+
+### Bug Fixes
+
+* 修复重复的信息报错问题 ([fa8ef3d](https://github.com/liuqh0609/algorithm/commit/fa8ef3ddeba9966927c235f7579c1e43b45fcea6))
+
+
+### Features
+
+* 完成第一次commit ([74047be](https://github.com/liuqh0609/algorithm/commit/74047beaefb19b87bd20045e08e78fd6601e6a35))
+* 增加TODO信息 ([5a5525d](https://github.com/liuqh0609/algorithm/commit/5a5525d56cfbed2fbaa8793de996e7ad6e88ba95))
+
 ## [1.0.1](https://github.com/liuqh0609/algorithm/compare/v1.0.0...v1.0.1) (2021-03-27)
 
 
