@@ -1,3 +1,10 @@
+# [1.0.0](https://github.com/liuqh0609/algorithm/compare/v0.0.11...v1.0.0) (2021-03-27)
+
+
+### Bug Fixes
+
+* 测试release流程 ([96974fd](https://github.com/liuqh0609/algorithm/commit/96974fd2472d2063362f66cda0120502b4ea8cde))
+
 ## [0.0.11](https://github.com/liuqh0609/algorithm/compare/v0.0.10...v0.0.11) (2021-03-26)
 
 
