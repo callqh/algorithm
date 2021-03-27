@@ -22,7 +22,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.actionToken }} # 之前GitHub添加的Token
         with:
           tag_name: ${{ github.ref }} # (tag)标签名称
-          release_name: Release ${{ github.ref }}
+          release_name: ${{ github.ref }}
           body: ${{ steps.changelog.outputs.changelog }}
           draft: false # 是否是草稿
           prerelease: false
