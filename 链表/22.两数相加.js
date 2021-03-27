@@ -1,3 +1,5 @@
+// 解释思路
+
 /**
  * Definition for singly-linked list.
  */
