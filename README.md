@@ -1,4 +1,4 @@
-![Yes](http://qiniu.liuqh.cn/banner1.jpg)
+
 
 **没有速成，稳扎稳打，量变产生质变。**
 
