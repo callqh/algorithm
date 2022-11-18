@@ -26,7 +26,7 @@
 
 ## 按照难易程度划分
 
-[![](https://img.shields.io/github/issues-search?color=green&label=%E7%AE%80%E5%8D%95&logo=leetcode&query=repo%3Acallqh%2Falgorithm%20label%3A%E7%AE%80%E5%8D%95&style=for-the-badge)](https://github.com/callqh/algorithm/labels/%E7%AE%80%E5%8D%95)
+[![](https://img.shields.io/github/issues/callqh/algorithm/%E9%93%BE%E8%A1%A8?label=%E9%93%BE%E8%A1%A8&style=for-the-badge](https://github.com/callqh/algorithm/labels/%E7%AE%80%E5%8D%95)
 
 [![](https://img.shields.io/github/issues-search?color=orange&label=%E4%B8%AD%E7%AD%89&logo=leetcode&query=repo%3Acallqh%2Falgorithm%20label%3A%E4%B8%AD%E7%AD%89&style=for-the-badge)](https://github.com/callqh/algorithm/labels/%E4%B8%AD%E7%AD%89)
 
